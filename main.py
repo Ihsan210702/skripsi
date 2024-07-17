@@ -5,7 +5,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 import urllib.request
-import pickle5 as pickle 
 # from imblearn.over_sampling import RandomOverSampler
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.naive_bayes import MultinomialNB
