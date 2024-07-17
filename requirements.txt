@@ -4,3 +4,5 @@ nltk == 3.8.1
 matplotlib == 3.3.4
 joblib == 1.2.0
 pickle5 == 0.0.12
+imbalanced-learn == 0.12.2
+Sastrawi == 1.0.2
