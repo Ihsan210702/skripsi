@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import hydralit_components as hc
 import re
 import nltk
 nltk.download('stopwords')
