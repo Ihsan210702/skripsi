@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 import re
-import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
+import nltk
 import numpy as np
 import matplotlib.pyplot as plt
 import json
